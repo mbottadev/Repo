@@ -7,7 +7,8 @@
 3. Boyscout
 
 ## Coding Skills:
-| Language  |  Level  |  Motivation | 
+| Language  |  Level  |  Motivation |
+|-----------|---------|-------------| 
 | **Html**  |  2%     |  100%       |
 | **JS**    |  1%     |  100%       |
 | **PHP**   |  2%     |  100%       | 
