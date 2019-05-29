@@ -1,6 +1,10 @@
 ## Time-line
 Exercice realised at the very beginning of the training, first week.
 
+## _Exercise Instructions:_ 
+
+Markdown presentation
+
 # **Maxime Botta**
 *"Things aren’t always #000000 and #FFFFFF"*
 
