@@ -1,4 +1,4 @@
-## Time-line
+## Timeline
 Exercice realised at the very beginning of the training, first week.
 
 ## _Exercise Instructions:_ 
